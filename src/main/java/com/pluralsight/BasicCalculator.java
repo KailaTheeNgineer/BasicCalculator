@@ -29,22 +29,22 @@ public class BasicCalculator {
                 System.out.println("Answer: " + sum);
             } else if (operator.contentEquals("S")) {
                 double sub = num1 - num2;
-                System.out.println("Answer: " + sub);
+                System.out.println("Results: " + sub);
             } else if (operator.contentEquals("s")) {
                 double sub = num1 - num2;
-                System.out.println("Answer: " + sub);
+                System.out.println("Results: " + sub);
             } else if (operator.contentEquals("M")) {
                 double mult = num1 * num2;
-                System.out.println("Answer: " + mult);
+                System.out.println("Results: " + mult);
             } else if (operator.contentEquals("m")) {
                 double mult = num1 * num2;
-                System.out.println("Answer: " + mult);
+                System.out.println("Results: " + mult);
             } else if (operator.contentEquals("D")) {
                 double divi = num1 / num2;
-                System.out.println("Answer: " + divi);
+                System.out.println("Results: " + divi);
             } else if (operator.contentEquals("d")) {
                 double divi = num1 / num2;
-                System.out.println("Answer: " + divi);
+                System.out.println("Results: " + divi);
             }
 
         }
