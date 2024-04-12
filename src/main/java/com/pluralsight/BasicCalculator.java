@@ -1,8 +1,7 @@
 package com.pluralsight;
 
 import java.util.*;
-
-import static java.lang.String.*;
+/* this import initializes access of user input */
 
 public class BasicCalculator {
     public static void main(String[] args) {
